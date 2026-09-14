@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 116" role="img" aria-labelledby="title desc">
+  <title id="title">Leite no Azul</title>
+  <desc id="desc">Assinatura horizontal da marca Leite no Azul.</desc>
+
+  <g transform="translate(8 10) scale(.92)">
+    <g fill="#073B6F">
+      <path d="M57 39 43 28c-4-3-8-4-13-4H20c-8 0-12-4-12-11V8c6 5 12 7 20 7h12c11 0 17 6 17 15v9Z"></path>
+      <path d="M44 35 57 46v30c0 6-5 9-10 6l-3-2V35Z"></path>
+
+      <g transform="translate(120 0) scale(-1 1)">
+        <path d="M57 39 43 28c-4-3-8-4-13-4H20c-8 0-12-4-12-11V8c6 5 12 7 20 7h12c11 0 17 6 17 15v9Z"></path>
+        <path d="M44 35 57 46v30c0 6-5 9-10 6l-3-2V35Z"></path>
+      </g>
+    </g>
+  </g>
+
+  <text x="145" y="72" fill="#073B6F" font-family="Inter, Arial, sans-serif" font-size="51" font-weight="720" letter-spacing="-1.7">
+    Leite
+  </text>
+
+  <text x="271" y="72" fill="#0B63B6" font-family="Inter, Arial, sans-serif" font-size="51" font-weight="520" letter-spacing="-1.7">
+     no
+  </text>
+
+  <text x="349" y="72" fill="#073B6F" font-family="Inter, Arial, sans-serif" font-size="51" font-weight="720" letter-spacing="-1.7">
+    Azul
+  </text>
+</svg>
